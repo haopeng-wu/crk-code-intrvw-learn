@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdfc323c-07f1-43f2-a3aa-2bbae6930b04" name="Changes" comment="second version complete" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="with_one_stack" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dq8WT7MIUQuYStvaE9HS9LULWA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnimalShelter">
+    <configuration name="AnimalShelter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnimalShelter" />
+      <module name="stacks-and-queues" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueOfStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueOfStack" />
+      <module name="stacks-and-queues" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortQueue" />
+      <module name="stacks-and-queues" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Template1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Template1" />
+      <module name="stacks-and-queues" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnimalShelter" />
+        <item itemvalue="Application.SortQueue" />
+        <item itemvalue="Application.QueueOfStack" />
+        <item itemvalue="Application.Template1" />
+        <item itemvalue="Application.Template1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdfc323c-07f1-43f2-a3aa-2bbae6930b04" name="Changes" comment="" />
+      <created>1661415291577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661415291577</updated>
+    </task>
+    <task id="LOCAL-00001" summary="version 1 worked, using two stacks and shift to each other">
+      <created>1662101562166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662101562166</updated>
+    </task>
+    <task id="LOCAL-00002" summary="version2 complete. using only one stack and pop from the other side">
+      <created>1662102864039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662102864039</updated>
+    </task>
+    <task id="LOCAL-00003" summary="version2 debugging">
+      <created>1662103606128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662103606128</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add public modifier to main">
+      <created>1662216830557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662216830557</updated>
+    </task>
+    <task id="LOCAL-00005" summary="the final version finished">
+      <created>1662217256074</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662217256074</updated>
+    </task>
+    <task id="LOCAL-00006" summary="the final version finished">
+      <created>1662217264179</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662217264179</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add public modifier to main">
+      <created>1662217312382</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662217312382</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first commit of sort queue">
+      <created>1662218056262</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662218056262</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first commit of sort queue">
+      <created>1662668207226</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662668207226</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first commit of sort queue">
+      <created>1662668230356</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662668230356</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first commit">
+      <created>1662668680081</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662668680081</updated>
+    </task>
+    <task id="LOCAL-00012" summary="complete">
+      <created>1662670660815</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662670660815</updated>
+    </task>
+    <task id="LOCAL-00013" summary="second version complete">
+      <created>1662754231134</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662754231134</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 1 worked, using two stacks and shift to each other" />
+    <MESSAGE value="version2 complete. using only one stack and pop from the other side" />
+    <MESSAGE value="version2 debugging" />
+    <MESSAGE value="the final version finished" />
+    <MESSAGE value="add public modifier to main" />
+    <MESSAGE value="first commit of sort queue" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="complete" />
+    <MESSAGE value="second version complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="second version complete" />
+  </component>
+</project>
